@@ -1,4 +1,4 @@
-## Implement ML Algorithm from scratch
+## Implement ML Algorithm from scratch (ML : assignment-2)
 
 - KMeans
 - Logistic Regression
